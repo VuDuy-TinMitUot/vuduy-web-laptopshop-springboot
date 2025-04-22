@@ -1,4 +1,4 @@
-package vn.vuduy.vuduy_web_laptopshop_springboot;
+package vn.vuduy.laptopshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
